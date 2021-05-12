@@ -3,6 +3,29 @@
   background-position: 50% 50%;
 }
 
+.u-section-4 .u-sheet-1 {
+  min-height: 255px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 700;
+  margin: 49px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 49px auto 60px;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 10px;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 500px;
 }
@@ -109,7 +132,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 481px;
+  min-height: 350px;
 }
 
 .u-section-3 .u-text-1 {
