@@ -1,9 +1,3 @@
-/*begin-commonstyles library*//*!
- * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)
- * License https://froala.com/wysiwyg-editor/terms/
- * Copyright 2014-2020 Froala Labs
- */
-
 .fr-clearfix::after {
   clear: both;
   display: block;
@@ -360,15 +354,7 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*//*begin-commonstyles library*/@charset "UTF-8";
 
-/*!
- * animate.css -https://daneden.github.io/animate.css/
- * Version - 3.7.2
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2019 Daniel Eden
- */
 
 @-webkit-keyframes bounce {
   from,
@@ -31318,7 +31304,22 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #ff0000 !important;
         }
 
-        
+        a.u-button-style.u-button-style.u-active-custom-color-7:active,
+        a.u-button-style.u-button-style.u-active-custom-color-7[class*="u-border-"]:active,
+        a.u-button-style.u-button-style.u-active-custom-color-7.active,
+        a.u-button-style.u-button-style.u-active-custom-color-7[class*="u-border-"].active,
+        a.u-button-style.u-button-style.active > .u-active-custom-color-7,
+        a.u-button-style.u-button-style.active > .u-active-custom-color-7[class*="u-border-"],
+        li.active > a.u-button-style.u-button-style.u-active-custom-color-7,
+        li.active > a.u-button-style.u-button-style.u-active-custom-color-7[class*="u-border-"]
+        {
+            color: #ffffff !important;
+            background-color: #1bd00f !important;
+        }
+
+        a.u-link.u-hover-custom-color-1:hover {
+            color: #1bd00f !important;
+        }
         
         .u-custom-color-2,
         .u-body.u-custom-color-2,
