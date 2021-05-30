@@ -3,6 +3,11 @@
   background-position: 50% 50%;
 }
 
+.u-section-4 {
+  background-image: url("images/steel.jpg");
+  background-position: 50% 100%;
+}
+
 .u-section-4 .u-sheet-1 {
   min-height: 255px;
 }
